@@ -1,10 +1,12 @@
 #qual-container {
-    color: white;
+    color: black;
     height: auto;
 
     border: solid white 1px;
     border-radius: 15px;
     margin: 20px;
+    box-shadow: 1px 1px 5px 1px grey;
+
 }
 #qual-title-container{
     width: 100%;

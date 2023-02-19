@@ -27,12 +27,11 @@
 	width:100%;
 	height: auto;
 
-	background: rgb(0, 76, 255);
+	/* background: rgb(0, 76, 255); */
 }
 
 .qual-skills-container {
 	width: 100%;
-	background: red;
 	
 
 	display: grid;
