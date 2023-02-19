@@ -1,6 +1,6 @@
 #section-container {
     color: white;
-    height: 200px;
+    height: auto;
 
     border: solid white 1px;
     border-radius: 15px;
@@ -15,5 +15,16 @@
 
 #skills-title {
     font-size: 2.3em;
+}
+
+.hr {
+    margin: 25px;
+
+}
+
+#skills-list-container {
+    width: 100%;
+    height: 70%;
+    background: yellow;
 }
 

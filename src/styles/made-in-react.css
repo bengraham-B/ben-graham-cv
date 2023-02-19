@@ -1,17 +1,54 @@
-#work-exp-container {
+#made-in-react-container {
     color: white;
-    height: 400px;
+    height: auto;
+    width: 400px;
 
-    border: solid white 1px;
+
+    box-shadow: 1px 1px 5px 1px grey;
     border-radius: 15px;
     margin: 20px;
 }
 
-#work-exp-title-container {
+#made-in-react-title-container {
     width: 100%;
     text-align: center;
+    color: black;
 }
 
-#work-exp-title {
-    font-size: 2.3em;
+#made-in-react-title {
+    font-size: 1.7em;
+}
+
+#made-in-react-text-container {
+    width:100%;
+    text-align: center;
+    color: black;
+}
+
+.hr {
+    margin: 15px;
+
+}
+
+#made-in-react-text{
+    text-align: center;
+    padding: 10px;
+}
+
+#made-in-react-github-link-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+#made-in-react-contact-icon {
+    width: 24px;
+    margin: 0 5px 0 0;
+}
+
+#github-link {
+    color: black;
 }

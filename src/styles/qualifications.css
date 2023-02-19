@@ -1,6 +1,6 @@
 #qual-container {
     color: white;
-    height: 200px;
+    height: auto;
 
     border: solid white 1px;
     border-radius: 15px;
@@ -13,4 +13,23 @@
 
 #qual-title {
     font-size: 2.3em;
+}
+
+.hr {
+    margin: 25px;
+
+}
+
+#qual-list-container{
+    width: 100%;
+    height: 80%;
+    text-align: center;
+}
+
+#qual-list-container > p {
+    margin: 15px;
+}
+
+#qual-text-container{
+    margin: 15px;
 }
