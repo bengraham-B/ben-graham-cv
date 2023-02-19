@@ -1,0 +1,42 @@
+/*~ Importing Google fonts: Poppins  */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300&display=swap');
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: 'Poppins';
+}
+
+.App {
+	width:100%;
+	height: auto;
+
+	display: flex;
+	flex-direction: row;
+
+	display: grid;
+	grid-template-columns: 30% 70%;
+}
+
+.left{
+  	height: auto;
+	  background: red;
+
+}
+
+.right {
+	width:100%;
+	height: auto;
+
+	background: rgb(0, 76, 255);
+}
+
+.qual-skills-container {
+	width: 100%;
+	background: red;
+	
+
+	display: grid;
+	grid-template-columns: 50% 50%;
+	grid-template-rows: 400px;
+}

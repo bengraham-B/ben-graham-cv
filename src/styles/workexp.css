@@ -1,0 +1,17 @@
+#work-exp-container {
+    color: white;
+    height: 400px;
+
+    border: solid white 1px;
+    border-radius: 15px;
+    margin: 20px;
+}
+
+#work-exp-title-container {
+    width: 100%;
+    text-align: center;
+}
+
+#work-exp-title {
+    font-size: 2.3em;
+}

@@ -1,0 +1,16 @@
+#qual-container {
+    color: white;
+    height: 200px;
+
+    border: solid white 1px;
+    border-radius: 15px;
+    margin: 20px;
+}
+#qual-title-container{
+    width: 100%;
+    text-align: center;
+}
+
+#qual-title {
+    font-size: 2.3em;
+}
