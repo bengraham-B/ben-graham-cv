@@ -17,7 +17,6 @@ export default function Skills() {
 					<li>ReactJS</li>
 					<li>MondoDB</li>
 					<li>Next.js</li>
-					<li>ExpressJS</li>
 				</ul>
 
 				
@@ -27,9 +26,8 @@ export default function Skills() {
 
 				<ul>
 					<li>Python</li>
-					<li>ReactJS</li>
-					<li>MondoDB</li>
-					<li>Next.js</li>
+					<li>Github</li>
+					<li>Sass</li>
 					<li>ExpressJS</li>
 				</ul>
 

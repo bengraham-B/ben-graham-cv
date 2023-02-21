@@ -27,10 +27,14 @@ export default function WorkExp() {
 
         <hr className="hr" />
 
-        <WorkExpComp title={"17 July 2017 – 21 July 2017"} text={"Reutech Radar Systems: Assisted in the financial department."}/>
-        <WorkExpComp title={"1 December 2017 – 16 January 2018"} text={"Reutech Radar Systems: Assisted in the financial department."}/>
-        <WorkExpComp title={"27 November 2018 – 8 January 2019"} text={"Reutech Radar Systems: Assisted in the financial department."}/>
-        <WorkExpComp title={"25 November 2019 - 5 December 2020"} text={"Reutech Radar Systems: Assisted in the financial department."}/>
+        <WorkExpComp title={"July 2017 – July 2017"} text={"Reutech Radar Systems: Assisted in the financial department."}/>
+        <WorkExpComp title={"December 2017 – January 2018"} text={"Reutech Radar Systems: Assisted in the financial department."}/>
+        <WorkExpComp title={"November 2018 – January 2019"} text={"Reutech Radar Systems: Assisted in the financial department."}/>
+        <WorkExpComp title={"November 2020 - January 2021"} text={"Reutech Radar Systems: Assisted in the financial department."}/>
+        <WorkExpComp title={"January 2022 - February 2022"} text={"Reutech Radar Systems: Assited in the Mining Department"}/>
+        <WorkExpComp title={"July 2022"} text={"Reutech Radar Systems: Auditing of Fixed Assets"}/>
+        <WorkExpComp title={"August 2022 - October 2022"} text={"Reutech Radar Systems: "}/>
+
 
 
     </div>

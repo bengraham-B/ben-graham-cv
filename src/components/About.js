@@ -13,18 +13,11 @@ export default function About() {
         <div id="about-text-container">
 
             <div id="about-text">
-                <p >
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates totam maiores obcaecati?
-                </p>
-            </div>
-
-            <div id="about-text">
                 <p>
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio quisquam error, recusandae aut libero delectus modi. Dicta deserunt necessitatibus aliquid laborum autem!
+                    I am currently completing my final year of a Bachelor of Commerce in Stragic managemnt and i 
+                    hope to combine my degree with my passion of web development.
                 </p>
             </div>
-
-
 
         </div>
 
